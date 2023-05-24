@@ -4,7 +4,7 @@ Spatial Analysis refers to the techniques used to analyze spatial data, i.e., da
 
 Here are some of the key concepts and tools used in time series analysis:
 
-1. Geocoding: The process of turning addresses and other location descriptors into geographic coordinates. This is often a crucial step in preparing data for spatial analysis.
+1. *Geocoding*: The process of turning addresses and other location descriptors into geographic coordinates. This is often a crucial step in preparing data for spatial analysis.
 
 2. Point Pattern Analysis: This involves the study of the spatial arrangement of points in a study area, and can include techniques such as nearest neighbor analysis, kernel density estimation, and cluster analysis.
 
